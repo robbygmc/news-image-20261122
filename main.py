@@ -5,6 +5,14 @@ Python 3.13, standard library only. The finished front page ships in
 this repository as entry.png; the program copies it to the output
 directory (``$MAKEFUN_OUTPUT_DIR`` or ``/output``). The copy is
 byte-for-byte identical on every run, so the two grading runs agree.
+
+This edition: Sunday 22 November 2026. Lead story — COP31 collapses
+with no deal in Antalya: two weeks of talks and two days of overtime
+end with no agreement, the EU rejecting a final draft with no mention
+of fossil fuels and the presidency declaring no consensus, the longest
+climate summit ever. entry.png is a PIL-drawn front page (masthead,
+drawn Antalya dusk scene, lead story, supporting stories and market
+line), verified 1024x1024.
 """
 
 import hashlib
